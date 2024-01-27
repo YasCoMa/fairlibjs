@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+title: "FairLibJs - Library to annotate Javascript libraries according to FAIR metadata standards"
+version: 1.0.0
+date-released: 2024-01-27
+url: "https://github.com/YasCoMa/fairlibjs"
+authors:
+- family-names: "Martins"
+  given-names: "Yasmmin"
+  orcid: "https://orcid.org/0000-0002-6830-1948"
